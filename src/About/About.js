@@ -19,10 +19,8 @@ class About extends React.Component {
     }
     return(
       <div className="about-container">
-        <h3>偏执狂个人中心</h3>
-          <Link activeStyle={{color:"#E040FB"}} style={styles.btn} onlyActiveOnIndex={true} to="/about/skill">技能知识</Link>
-          <Link activeStyle={{color:"#E040FB"}} style={styles.btn} to="/about/hobby">兴趣爱好</Link>
-          <Link activeStyle={{color:"#E040FB"}} style={styles.btn} to="/about/story">我的故事</Link>
+        <h3>你是辣白菜吗？</h3>
+
       </div>
     )
   }
