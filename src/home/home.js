@@ -6,8 +6,8 @@ class Home extends React.Component {
       <div className="home-container">
       <div className="home-inner">
         <h2> HappyBirthday</h2>
-        <p>WEB DEVELOPER</p>
-        <button className="btn"><a href='https://github.com/xixilide/happybirthday/blob/master/index.html#html' style={{color:'#fff'}} >Look Me!</a></button>
+        <p>My dear friend</p>
+        <button className="btn"><a href='https://xixilide.github.io/happy.html' style={{color:'#fff'}} >Look Me!</a></button>
       </div>
       </div>
     )
